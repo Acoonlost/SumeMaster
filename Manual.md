@@ -1,7 +1,10 @@
 Create by Matheus and Lara
-___________________________________________________________________________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________
 **Salvador_codigos:**
 1. Open termux
 2. Run: pkg install nano
-3. Run: git clone https://github.com/Acoonlost/SumeMaster
-4. Run: python Salvador_codigos.py
+3. Run: pkg install python
+4. Run: git clone https://github.com/Acoonlost/SumeMaster
+5. Run:cd SumeMaster
+6. Run: python Salvador_codigos.py
+*More tools in the future*
