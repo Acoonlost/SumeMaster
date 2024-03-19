@@ -26,6 +26,7 @@ def abrir_codigo_salvo():
     os.system(f"nano {nome_arquivo}")
 
 def menu():
+    print("\n===== Bem-vindo ao Editor e Criador de Códigos =====")
     print("1. Criar novo código")
     print("2. Abrir código salvo")
     print("3. Sair")
@@ -44,3 +45,4 @@ def menu():
 
 while True:
     menu()
+    
